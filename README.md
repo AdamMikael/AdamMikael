@@ -6,10 +6,3 @@
 AdamMikael/AdamMikael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# hello.py
-def greet(name):
-    return f"Hello, {Human}!"
-
-if __name__ == "__main__":
-    user_name = input("AdamMikael: ")
-    print(greet(AdamMikael))
